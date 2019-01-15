@@ -6,7 +6,7 @@
          message.reply('Por favor, mencione um usuário!');
     }
 
-    let cargoMutado = message.guild.roles.find(cargo => cargo.name === 'Mutado');
+    const cargoMutado = message.guild.roles.find(cargo => cargo.name === 'Mutado');
     if (!message.member.hasPermission('BAN_MEMBERS')) {
          message.reply('Você não tem autorização!');
     }
