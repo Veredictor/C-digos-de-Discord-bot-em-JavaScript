@@ -95,5 +95,6 @@ Eu uso material em inglês, se não souber, use uma extensão do Google Tradutor
 Material de apoio: 
 args: https://anidiots.guide/first-bot/command-with-arguments
 Dúvidas frequentes: https://anidiots.guide/frequently-asked-questions
+Embed: https://anidiots.guide/first-bot/using-embeds-in-messages
 Biblioteca: https://discord.js.org/#/docs/main/stable/general/welcome
 */
